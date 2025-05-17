@@ -23,3 +23,4 @@ The plot will display in a window; close it to exit the script.
 ```
 deactive    # to deactivate the environment
 ```
+![House Prices in Gold](house_prices_in_gold.png)
