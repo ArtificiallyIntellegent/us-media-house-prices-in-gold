@@ -21,6 +21,6 @@ Make sure house.csv and gold.csv files are in the same directory as combine.py.
 
 The plot will display in a window; close it to exit the script.
 ```
-deactive    # to deactivate the environment
+deactivate    # to deactivate the environment
 ```
 ![House Prices in Gold](house_prices_in_gold.png)
